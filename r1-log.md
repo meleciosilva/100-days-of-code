@@ -11,3 +11,7 @@ https://github.com/meleciosilva/va-breweries
 ### R1D2
 I continued to work on my VA Breweries project. I added another button to search for breweries on google maps and added a dropdown for sorting listings by name, city, and type. So far, I have the sortByName function working for a single page. I need to figure out how to keep the listings sorted when navigating to other pages.
 https://github.com/meleciosilva/va-breweries
+
+### R1D3
+I figured out how to keep the brewery listings sorted by name, city, and/or type when navigating to other pages. I think I might eventually add another page to see all breweries on a map.
+https://github.com/meleciosilva/va-breweries
