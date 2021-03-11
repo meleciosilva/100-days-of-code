@@ -7,3 +7,7 @@ The log of my #100DaysOfCode challenge. Started on [March 9, Tuesday, 2021].
 ### R1D1 
 I updated my VA Breweries project. Worked on adding functional pagination buttons. Struggled with making it work with a seach input, but I figured it out.
 https://github.com/meleciosilva/va-breweries
+
+### R1D2
+I continued to work on my VA Breweries project. I added another button to search for breweries on google maps and added a dropdown for sorting listings by name, city, and type. So far, I have the sortByName function working for a single page. I need to figure out how to keep the listings sorted when navigating to other pages.
+https://github.com/meleciosilva/va-breweries
