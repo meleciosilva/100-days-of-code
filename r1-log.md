@@ -15,3 +15,7 @@ https://github.com/meleciosilva/va-breweries
 ### R1D3
 I figured out how to keep the brewery listings sorted by name, city, and/or type when navigating to other pages. I think I might eventually add another page to see all breweries on a map.
 https://github.com/meleciosilva/va-breweries
+
+## R1D4
+I started an etch-a-sketch project today and managed to make it functional with mouse over. Thinking about adding a scale for selecting a grid size and a darkening hover option.
+https://github.com/meleciosilva/etch-a-sketch
