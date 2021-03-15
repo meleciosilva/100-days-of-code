@@ -23,3 +23,7 @@ https://github.com/meleciosilva/etch-a-sketch
 ## R1D5
 I added an input range slider and some buttons to my etch-a-sketch project. So far, it can only generate random colors and erase grid cells. Need to add options to select own color and a darken feauture.
 https://github.com/meleciosilva/etch-a-sketch
+
+## R1D6
+I learned how to use Vercel to deploy a constellations React application. 
+starter-constellations-client-8xyubha17-meleciosilva.vercel.app
