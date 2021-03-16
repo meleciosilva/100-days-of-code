@@ -27,3 +27,7 @@ https://github.com/meleciosilva/etch-a-sketch
 ## R1D6
 I learned how to use Vercel to deploy a constellations React application. 
 starter-constellations-client-8xyubha17-meleciosilva.vercel.app
+
+## R1D7
+It took me a while to figure out how to darken grid cells with mouseover, but I figured out how to use the filter property's brightness value to accomplish my goal. I also struggled with getting only one event listener to be active at a time. I ended up using a switch statement to evaluate the textContent of the button clicked, and it works now. Need to add a color picker, then I'll probably start working on another project.
+https://github.com/meleciosilva/etch-a-sketch
