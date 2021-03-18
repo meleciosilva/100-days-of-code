@@ -36,6 +36,6 @@ https://github.com/meleciosilva/etch-a-sketch
 I started working on a flashcards project for users to create study decks to study from. So far, I figured out how to display each deck added, but I need to figure out how to edit the contents of each deck/dard and/or delete them.
 https://github.com/meleciosilva/Study-Flashcards/tree/main/src
 
-## R1D8
+## R1D9
 I figured out how to get flashcards to delete and how to add more. Having trouble with rerendering once a card is deleted or added. The useEffect hook renders in an endless loop when I add a state dependency. 
 https://github.com/meleciosilva/Study-Flashcards/tree/main/src
