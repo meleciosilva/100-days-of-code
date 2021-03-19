@@ -39,3 +39,7 @@ https://github.com/meleciosilva/Study-Flashcards/tree/main/src
 ## R1D9
 I figured out how to get flashcards to delete and how to add more. Having trouble with rerendering once a card is deleted or added. The useEffect hook renders in an endless loop when I add a state dependency. 
 https://github.com/meleciosilva/Study-Flashcards/tree/main/src
+
+## R1D10
+I worked on the Edit Deck page of my flashcards project. I need to organize my components in a more logical way. The nested components are making things more messy than I would have hoped.
+https://github.com/meleciosilva/Study-Flashcards/tree/main/src
