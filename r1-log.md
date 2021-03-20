@@ -43,3 +43,8 @@ https://github.com/meleciosilva/Study-Flashcards/tree/main/src
 ## R1D10
 I worked on the Edit Deck page of my flashcards project. I need to organize my components in a more logical way. The nested components are making things more messy than I would have hoped.
 https://github.com/meleciosilva/Study-Flashcards/tree/main/src
+
+## R1D11
+I broke a lot of code today. But it gave me the opportunity to seek out other resources to learn from. Ready to start fresh tomorrow.
+https://github.com/meleciosilva/Study-Flashcards/tree/main/src
+
