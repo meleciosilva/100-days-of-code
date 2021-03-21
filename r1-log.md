@@ -48,3 +48,6 @@ https://github.com/meleciosilva/Study-Flashcards/tree/main/src
 I broke a lot of code today. But it gave me the opportunity to seek out other resources to learn from. Ready to start fresh tomorrow.
 https://github.com/meleciosilva/Study-Flashcards/tree/main/src
 
+## R1D12
+I took a break from my flashcards project and updated my website/portfolio. I learned how to make a mixed nav bar andhow to blur an image. I updated my photo, deleted some fluff, added a resume section, and updated styling.
+https://github.com/meleciosilva/my-portfolio
