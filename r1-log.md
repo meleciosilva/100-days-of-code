@@ -51,3 +51,7 @@ https://github.com/meleciosilva/Study-Flashcards/tree/main/src
 ## R1D12
 I took a break from my flashcards project and updated my website/portfolio. I learned how to make a mixed nav bar andhow to blur an image. I updated my photo, deleted some fluff, added a resume section, and updated styling.
 https://github.com/meleciosilva/my-portfolio
+
+## R1D13
+Finally structured my React files in a logical way and fixed my code. Now able to add a card to a deck. Need to add EditCard component and figure out how to re-fetch information when a change is made so the app updates properly. 
+https://github.com/meleciosilva/Study-Flashcards/tree/main/src
