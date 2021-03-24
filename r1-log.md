@@ -56,6 +56,11 @@ https://github.com/meleciosilva/my-portfolio
 Finally structured my React files in a logical way and fixed my code. Now able to add a card to a deck. Need to add EditCard component and figure out how to re-fetch information when a change is made so the app updates properly. 
 https://github.com/meleciosilva/Study-Flashcards/tree/main/src
 
-## R1D13
+## R1D14
 React Flashcards project is fully functional. Failing a few tests still. And still need to figure out how to get app to leload with current data when adding, editing, and deleting listings.
 https://github.com/meleciosilva/Study-Flashcards/tree/main/src
+
+## R1D15
+Making good progress on flashcards project. Everything is functional and I am passing all the tests. Need to do some refactoring to meet project requirements, starting with using the same Form component for adding & editing decks/cards.
+https://github.com/meleciosilva/Study-Flashcards/tree/main/src
+
