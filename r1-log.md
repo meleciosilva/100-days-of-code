@@ -64,3 +64,7 @@ https://github.com/meleciosilva/Study-Flashcards/tree/main/src
 Making good progress on flashcards project. Everything is functional and I am passing all the tests. Need to do some refactoring to meet project requirements, starting with using the same Form component for adding & editing decks/cards.
 https://github.com/meleciosilva/Study-Flashcards/tree/main/src
 
+## R1D16
+Finished working on my Flashcards project. Was able to properly share the form component between adding & editing components. Learned about a React error that can occur when a component changes from controlled to uncontrolled when dealing with input values.
+https://github.com/meleciosilva/Study-Flashcards/tree/main/src
+
