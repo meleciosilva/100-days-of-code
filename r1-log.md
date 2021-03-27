@@ -68,3 +68,7 @@ https://github.com/meleciosilva/Study-Flashcards/tree/main/src
 Finished working on my Flashcards project. Was able to properly share the form component between adding & editing components. Learned about a React error that can occur when a component changes from controlled to uncontrolled when dealing with input values.
 https://github.com/meleciosilva/Study-Flashcards/tree/main/src
 
+## R1D17
+Spent some time working on my resume today. Also made some minor tweaks to portfolio. I have some ideas for updating my portfolio. I want to delete some fluff, add skills, and create a more minimalist projects section, possibly with transitions.
+https://github.com/meleciosilva/my-portfolio
+
