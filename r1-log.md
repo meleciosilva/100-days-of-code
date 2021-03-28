@@ -72,3 +72,7 @@ https://github.com/meleciosilva/Study-Flashcards/tree/main/src
 Spent some time working on my resume today. Also made some minor tweaks to portfolio. I have some ideas for updating my portfolio. I want to delete some fluff, add skills, and create a more minimalist projects section, possibly with transitions.
 https://github.com/meleciosilva/my-portfolio
 
+## R1D18
+Updated my LinkedIn profile and began updating README.md files on my top repos. Started cleaning up my portfolio, too.
+https://github.com/meleciosilva/
+
