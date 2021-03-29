@@ -76,3 +76,6 @@ https://github.com/meleciosilva/my-portfolio
 Updated my LinkedIn profile and began updating README.md files on my top repos. Started cleaning up my portfolio, too.
 https://github.com/meleciosilva/
 
+## R1D19
+Updated my portfolio today. Learned about CSS modal boxes and finished updating README files for pinned projects.
+https://github.com/meleciosilva/my-portfolio
