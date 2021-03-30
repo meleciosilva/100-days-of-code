@@ -79,3 +79,7 @@ https://github.com/meleciosilva/
 ## R1D19
 Updated my portfolio today. Learned about CSS modal boxes and finished updating README files for pinned projects.
 https://github.com/meleciosilva/my-portfolio
+
+## R1D20
+I updated the resposive design on my portfolio project listings and added a fourth project.
+https://github.com/meleciosilva/my-portfolio
