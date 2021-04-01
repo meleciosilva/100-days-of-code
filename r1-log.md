@@ -83,3 +83,7 @@ https://github.com/meleciosilva/my-portfolio
 ## R1D20
 I updated the resposive design on my portfolio project listings and added a fourth project.
 https://github.com/meleciosilva/my-portfolio
+
+##R1D21
+I learned more about Express, handling erros, and dealing with router-level middleware. I spent some time building a server for my flashcards project. Need to figure out how to actually integrate it with the front end stuff.
+https://github.com/meleciosilva/flashcards-server
