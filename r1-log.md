@@ -87,3 +87,7 @@ https://github.com/meleciosilva/my-portfolio
 ##R1D21
 I learned more about Express, handling erros, and dealing with router-level middleware. I spent some time building a server for my flashcards project. Need to figure out how to actually integrate it with the front end stuff.
 https://github.com/meleciosilva/flashcards-server
+
+##R1D22
+I learned more about RESTful APIs and more about HTTP request methods with Express.
+https://github.com/meleciosilva/starter-robust-erver-structure
