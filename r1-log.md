@@ -1,6 +1,8 @@
 # #100DaysOfCode Log - Round 1 - Melecio Silva
 
-The log of my #100DaysOfCode challenge. Started on [March 9, Tuesday, 2021].
+The log of my #100DaysOfCode challenge.
+- First Attempt Start: [March 9, Tuesday, 2021] (22 Days)
+- Second Attempt Start: [June 1, Tuesday, 2021]
 
 ## Log
 
@@ -91,3 +93,8 @@ https://github.com/meleciosilva/flashcards-server
 ##R1D22
 I learned more about RESTful APIs and more about HTTP request methods with Express.
 https://github.com/meleciosilva/starter-robust-erver-structure
+
+##R1D1
+I built an Express API for my Flashcard-o-matic project and deployed it on Vercel. I also updated my portfolio.
+https://github.com/meleciosilva/flashcard-o-matic-server
+https://github.com/meleciosilva/Melecio-Silva-Portfolio
