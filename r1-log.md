@@ -98,3 +98,7 @@ https://github.com/meleciosilva/starter-robust-erver-structure
 I built an Express API for my Flashcard-o-matic project and deployed it on Vercel. I also updated my portfolio.
 https://github.com/meleciosilva/flashcard-o-matic-server
 https://github.com/meleciosilva/Melecio-Silva-Portfolio
+
+### R1D2
+I worked on building an Express API for a restaurant reservations application. I learned about a new package called Express-Validation that helps validate requests and sends error messages.
+https://github.com/meleciosilva/restaurant-reservation
