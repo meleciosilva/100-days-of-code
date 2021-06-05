@@ -102,3 +102,7 @@ https://github.com/meleciosilva/Melecio-Silva-Portfolio
 ### R1D2
 I worked on building an Express API for a restaurant reservations application. I learned about a new package called Express-Validation that helps validate requests and sends error messages.
 https://github.com/meleciosilva/restaurant-reservation
+
+### R1D3
+I created a form for my restaurant reservations application. I learned about a package called React Hook Form that helps validate entries.
+https://github.com/meleciosilva/restaurant-reservation
