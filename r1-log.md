@@ -6,6 +6,32 @@ The log of my #100DaysOfCode challenge.
 
 ## Log
 
+### R1D5
+I updated my reservations form with new validation to account for closing hours and past dates.
+https://github.com/meleciosilva/restaurant-reservation
+
+### R1D4
+I worked on developing validation for my new form. I learned about a package called React Hook Form that helps validate entries.
+https://github.com/meleciosilva/restaurant-reservation
+
+
+### R1D3
+I spent time building the front end of the new reservation page with React and Bootstrap.
+https://github.com/meleciosilva/restaurant-reservation
+
+### R1D2
+I worked on building an Express API for a restaurant reservations application. I learned about a new package called Express-Validation that helps validate requests and sends error messages.
+https://github.com/meleciosilva/restaurant-reservation
+
+### R1D1
+I built an Express API for my Flashcard-o-matic project and deployed it on Vercel. I also updated my portfolio.
+https://github.com/meleciosilva/flashcard-o-matic-server
+https://github.com/meleciosilva/Melecio-Silva-Portfolio
+
+---
+
+<em>Attempt #1</em>
+
 ### R1D1 
 I updated my VA Breweries project. Worked on adding functional pagination buttons. Struggled with making it work with a seach input, but I figured it out.
 https://github.com/meleciosilva/va-breweries
@@ -93,16 +119,3 @@ https://github.com/meleciosilva/flashcards-server
 ### R1D22
 I learned more about RESTful APIs and more about HTTP request methods with Express.
 https://github.com/meleciosilva/starter-robust-erver-structure
-
-### R1D1
-I built an Express API for my Flashcard-o-matic project and deployed it on Vercel. I also updated my portfolio.
-https://github.com/meleciosilva/flashcard-o-matic-server
-https://github.com/meleciosilva/Melecio-Silva-Portfolio
-
-### R1D2
-I worked on building an Express API for a restaurant reservations application. I learned about a new package called Express-Validation that helps validate requests and sends error messages.
-https://github.com/meleciosilva/restaurant-reservation
-
-### R1D3
-I created a form for my restaurant reservations application. I learned about a package called React Hook Form that helps validate entries.
-https://github.com/meleciosilva/restaurant-reservation
