@@ -5,6 +5,9 @@ The log of my #100DaysOfCode challenge.
 - Second Attempt Start: [June 1, Tuesday, 2021]
 
 ## Log
+### R1D6
+I started creating a form to create tables to seat reservations. Struggling with implementing it in the API.
+https://github.com/meleciosilva/restaurant-reservation
 
 ### R1D5
 I updated my reservations form with new validation to account for closing hours and past dates.
