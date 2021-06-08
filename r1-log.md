@@ -5,6 +5,11 @@ The log of my #100DaysOfCode challenge.
 - Second Attempt Start: [June 1, Tuesday, 2021]
 
 ## Log
+
+### R1D7
+I finished user story #4 for my final capstone project. Had a good refresher on passing state through props and handling errors with react.
+https://github.com/meleciosilva/reservations/tree/user-story-04
+
 ### R1D6
 I started creating a form to create tables to seat reservations. Struggling with implementing it in the API.
 https://github.com/meleciosilva/restaurant-reservation
