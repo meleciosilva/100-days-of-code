@@ -6,6 +6,10 @@ The log of my #100DaysOfCode challenge.
 
 ## Log
 
+### R1D8
+I finished user story #5 and am about 1/2 finished with user story 6. I updated my application with reservation statuses to help with booking, seating, and finishing reservations.
+https://github.com/meleciosilva/reservations/tree/user-story-6
+
 ### R1D7
 I finished user story #4 for my final capstone project. Had a good refresher on passing state through props and handling errors with react.
 https://github.com/meleciosilva/reservations/tree/user-story-04
