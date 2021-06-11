@@ -6,6 +6,10 @@ The log of my #100DaysOfCode challenge.
 
 ## Log
 
+### R1D10
+I finished user-story #7 of my final capstone. I am able to now search reservations by phone number.
+https://github.com/meleciosilva/reservations
+
 ### R1D9
 I finished user story #6 of my capstone and updated a couple of my routes with database transactions. 
 https://github.com/meleciosilva/reservations
