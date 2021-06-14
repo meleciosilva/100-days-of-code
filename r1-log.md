@@ -6,6 +6,10 @@ The log of my #100DaysOfCode challenge.
 
 ## Log
 
+### R1D14
+I made some finishing touches on my final capstone with styling and made sure all the tests were passing. Also finalized the README file. Finally submitted.
+https://github.com/meleciosilva/reservations
+
 ### R1D13
 I refactored my code and added better styling. Almost ready top submit.
 https://github.com/meleciosilva/reservations
