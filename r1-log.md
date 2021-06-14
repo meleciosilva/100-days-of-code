@@ -6,6 +6,10 @@ The log of my #100DaysOfCode challenge.
 
 ## Log
 
+### R1D13
+I refactored my code and added better styling. Almost ready top submit.
+https://github.com/meleciosilva/reservations
+
 ### R1D12
 I worked on refactoring som eo fmy code and wrote up a README.md file. Need to start working on adding a decent design before I submit it.
 https://github.com/meleciosilva/reservations
