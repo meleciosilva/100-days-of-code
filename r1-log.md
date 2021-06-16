@@ -6,6 +6,10 @@ The log of my #100DaysOfCode challenge.
 
 ## Log
 
+### R1D15
+I began modifying the express server I built for my flashcards project to function with a database.
+https://github.com/meleciosilva/flashcard-o-matic-server/tree/database
+
 ### R1D14
 I made some finishing touches on my final capstone with styling and made sure all the tests were passing. Also finalized the README file. Finally submitted.
 https://github.com/meleciosilva/reservations
