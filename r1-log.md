@@ -6,6 +6,10 @@ The log of my #100DaysOfCode challenge.
 
 ## Log
 
+### R1D16
+Updated some CRUD functions to work with new database. Once this is resolved completely, I will have to red-wrok the front-end.
+https://github.com/meleciosilva/flashcard-o-matic-server/tree/database
+
 ### R1D15
 I began modifying the express server I built for my flashcards project to function with a database.
 https://github.com/meleciosilva/flashcard-o-matic-server/tree/database
